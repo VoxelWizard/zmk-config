@@ -65,9 +65,9 @@
                 
        		default_layer {
 		bindings = <
-		&kp DE_J &kp DE_C &kp DE_N &kp DE_F &kp DE_K 				&kp DE_Z &kp DE_L  &kp DE_COMM  &kp DE_U   &kp DE_Q
+		&kp DE_J &kp DE_C &kp DE_Y &kp DE_F &kp DE_K 				&kp DE_Z &kp DE_L  &bt BT_PRV  &kp DE_U   &kp DE_Q
 		&kp DE_R &kp DE_S &kp DE_T &kp DE_H &kp DE_D 	        	        &kp DE_M &kp DE_N &kp DE_A &kp DE_I &kp DE_O
-		&kp DE_QUOT &kp DE_V &kp DE_G &kp DE_P &kp DE_B			        &kp DE_X &kp DE_W  &kp DE_DOT &kp DE_COLN &kp DE_MINS
+		&kp DE_QUOT &kp DE_V &kp DE_G &kp DE_P &kp DE_B			        &kp DE_X &kp DE_W  &bt BT_NXT &bt BT_CLR &kp DE_MINS
           				&mo 1 &kp SPC  					&kp DE_E &mo 2 
 		>;
 		};

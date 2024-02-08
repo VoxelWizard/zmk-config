@@ -95,10 +95,10 @@
          combo_lctrl {timeout-ms = <25>; key-positions = <12 22>; bindings = <&kp LCTRL>;};
          combo_lshift {timeout-ms = <25>; key-positions = <13 23>; bindings = <&kp LSHIFT>;};
 
-         combo_rsuper {timeout-ms = <25>; key-positions = <16 26>; bindings = <&kp RGUI>;};
-         combo_ralt {timeout-ms = <25>; key-positions = <17 27>; bindings = <&kp RALT>;};
-         combo_rctrl {timeout-ms = <25>; key-positions = <18 28>; bindings = <&kp RCTRL>;};
-         combo_rshift {timeout-ms = <25>; key-positions = <19 29>; bindings = <&kp RSHIFT>;};
+         combo_rsuper {timeout-ms = <25>; key-positions = <19 29>; bindings = <&kp RGUI>;};
+         combo_ralt {timeout-ms = <25>; key-positions = <18 28>; bindings = <&kp RALT>;};
+         combo_rctrl {timeout-ms = <25>; key-positions = <17 27>; bindings = <&kp RCTRL>;};
+         combo_rshift {timeout-ms = <25>; key-positions = <16 26>; bindings = <&kp RSHIFT>;};
 
         
 

@@ -120,7 +120,7 @@
        		old_num_layer {
 		bindings = <
 		&kp NUM_9  &kp NUM_7    &kp NUM_5    &kp NUM_3    &kp BACKSLASH 	&kp PIPE &kp NUM_2 &kp NUM_4 &kp NUM_6 &kp NUM_8 
-		&kp LEFT_BRACE    &kp KP_LPAR    &kp EXCL  &kp NUM_1   &kp ASTERISK 	&kp PERCENT &kp NUM_0  &kp QUES &kp RPAR  &kp RIGHT_BRACE 
+		&kp LEFT_BRACE    &kp KP_LPAR    &kp EXCL  &kp NUM_1   &kp ASTERISK 	&kp PERCENT &kp NUM_0  &kp QUESTION &kp RPAR  &kp RIGHT_BRACE 
 		&kp TILDE   &kp LEFT_BRACKET 	&kp EQUAL &kp PLUS  &kp HASH 	       &kp AMPERSAND &kp AT &kp DOT &kp RIGHT_BRACKET &kp MINUS 
 					    &kp SLASH  &trans  					&trans &trans 
 		>;

@@ -86,7 +86,7 @@
        combo_quote {
             timeout-ms = <25>;
             key-positions = <20 21>;
-            bindings = <&kp DOUBLE_QUOTE>;
+            bindings = <&kp DOUBLE_QUOTES>;
         };
         
 
@@ -120,9 +120,9 @@
        		old_num_layer {
 		bindings = <
 		&kp NUM_9  &kp NUM_7    &kp NUM_5    &kp NUM_3    &kp BSLS		&kp PIPE &kp NUM_2 &kp NUM_4 &kp NUM_6 &kp NUM_8 
-		&kp LCBR    &kp LPRN    &kp EXLM  &kp NUM_1   &kp ASTR 	&kp PERC &kp NUM_0  &kp QUES &kp DE_RPRN  &kp DE_RCBR 
+		&kp LCBR    &kp LPRN    &kp EXLM  &kp NUM_1   &kp ASTR 	&kp PERC &kp NUM_0  &kp QUES &kp RPRN  &kp RCBR 
 		&kp TILD   &kp LBRC 	&kp EQL &kp PLUS  &kp HASH 	       &kp AMPR &kp AT &kp DOT &kp RBRC &kp MINUS 
-					    &kp DE_SLSH  &trans  					&trans &trans 
+					    &kp SLSH  &trans  					&trans &trans 
 		>;
 		};
 

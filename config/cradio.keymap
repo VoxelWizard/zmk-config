@@ -128,9 +128,9 @@
 
         	num_layer {
 		bindings = <
-		&kp LEFT_BRACKET  &kp NUM_7   &kp NUM_8    &kp NUM_9    &kp RIGHT_BRACKET		  &trans &transt &trans &trans &trans 
-		&kp SEMICOLON  &kp NUM_4   &kp NUM_5  &kp NUM_6   &kp EQUAL                	       &trans &transt &trans &trans &trans 
-		&kp GRAVE  &kp NUM_1 	&kp NUM_2  &kp NUM_3  &kp BACKSLASH 	                   &trans &transt &trans &trans &trans 
+		&kp LEFT_BRACKET  &kp NUM_7   &kp NUM_8    &kp NUM_9    &kp RIGHT_BRACKET		  &trans &trans &trans &trans &trans 
+		&kp SEMICOLON  &kp NUM_4   &kp NUM_5  &kp NUM_6   &kp EQUAL                	       &trans &trans &trans &trans &trans 
+		&kp GRAVE  &kp NUM_1 	&kp NUM_2  &kp NUM_3  &kp BACKSLASH 	                   &trans &trans &trans &trans &trans 
 					    &kp NUM_0  &trans  					                              &trans &trans 
 		>;
 		};
